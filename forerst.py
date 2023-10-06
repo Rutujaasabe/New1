@@ -1,1 +1,1 @@
-heyy
+print(heyy)
